@@ -30,7 +30,7 @@ It must first be clear that a collocate is a word that co-occurs with 内阁 mor
 
 六部 co-occurs with 内阁 six or seven times (O = 6–7), against an expected value of only E ≈ 0.10–0.16—about 50–60 times chance—and ranks between 6th and 11th. What, then, is the relationship between 六部 and 内阁? "卷五十三：内阁、五府、六部奏事官……" and "卷一百八十九：祖宗设内阁、六部，赞万几，理庶务，职至重也。" show that 六部 and 内阁 were both central administrative institutions that worked alongside one another. "卷一百七十：请六部大事同内阁奏行" states this most directly: major matters of the 六部 were to be reported jointly with 内阁. The two were thus partners in government rather than a clear hierarchy.
 
-九卿 co-occurs with 内阁 only six times (seven under the sentence method). In absolute terms this is not much—fewer than 机务 (15) or 学士 (10–12)—but 九卿 appears only 106 times in the whole text and its expected value is just 0.12, so six co-occurrences are already rare (about 52 times the expectation). It is therefore significant and ranks high (7th–13th). The text again clarifies the relationship: "卷十三：诏内阁九卿考核天下方面官。" and "卷二十三：召对内阁、九卿、科道及入觐两司官于文华殿。" Like 六部, 九卿 stood alongside 内阁 in the process of deliberation and administration rather than below it; both ultimately served the emperor.
+九卿 co-occurs with 内阁 only six times (seven under the sentence method). In absolute terms this is not much—fewer than 机务 (15) or 学士 (10–12)—but 九卿 appears only 106 times in the whole text and its expected value is just 0.12, so six co-occurrences are already rare (about 52 times the expectation). It is therefore significant and ranks high (7th–13th). The text again clarifies the relationship: "卷十三：诏内阁九卿考核天下方面官。" and "卷二十三：召对内阁、九卿、科道及入觐两司官于文华殿。" Like 六部, 九卿 stood alongside 内阁 in the process of deliberation and administration rather than below it; both ultimately served the emperor. This understanding of 内阁 as one institution among peers is consistent with Hucker's classic account of Ming central government, in which the Grand Secretariat shared the conduct of government with the six ministries and the nine chief ministers (Hucker 1958). Chinese scholarship supports this reading as well: 田澍 argues that the power of 内阁 remained subordinate to imperial authority throughout the dynasty, so that its members could never challenge the emperor (田澍 2018), while 谭天星 defines 内阁 as a central political institution designed to assist imperial decision-making, in which "军国大政，悉由票拟" (谭天星 1996).
 
 ## 3. Results
 
@@ -39,3 +39,9 @@ Across the three runs the number of significant collocates rose from 548 (window
 ## 4. Limitations
 
 Three limits qualify these findings. First, jieba uses a modern dictionary and mis-segments this classical text, merging or splitting words incorrectly (for example 官入, 一送 and 专用词), and it splits 中书舍人 into 中书 and 舍人, which inflates their frequency. Second, several collocates are ambiguous: 中书 can mean the clerks of 内阁 or the earlier 中书省; 机务 also occurs in the Nanjing office 参赞机务; 学士 can refer to Hanlin scholars outside 内阁; and 舍人 can mean 侍仪舍人, a ritual official. Only occurrences in the same sentence as 内阁 were used. Third, the tail of the list depends on the window, so only the cross-window core is reliable; moreover, some collocations rest on very few tokens—九卿 co-occurs with 内阁 only six or eight times—so a single segmentation error could change the result.
+
+## References
+
+Hucker, Charles O. "Governmental Organization of the Ming Dynasty." Harvard Journal of Asiatic Studies 21 (1958): 1–66.
+田澍：《明代内阁政治研究》，北京：人民出版社，2018。
+谭天星：《明代内阁政治》，北京：中国社会科学出版社，1996。
