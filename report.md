@@ -42,6 +42,8 @@ Three limits qualify these findings. First, jieba uses a modern dictionary and m
 
 ## References
 
-Hucker, Charles O. "Governmental Organization of the Ming Dynasty." Harvard Journal of Asiatic Studies 21 (1958): 1–66.
+Hucker, Charles O. "Governmental Organization of the Ming Dynasty." *Harvard Journal of Asiatic Studies* 21 (1958): 1–66.
+
 田澍：《明代内阁政治研究》，北京：人民出版社，2018。
+
 谭天星：《明代内阁政治》，北京：中国社会科学出版社，1996。
